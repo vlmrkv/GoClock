@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="time_is_running_out">#FF6E40</color>
+    <color name="green_light">#B2FF59</color>
 </resources>
